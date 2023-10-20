@@ -818,6 +818,10 @@ video {
   width: 20rem;
 }
 
+.w-72 {
+  width: 18rem;
+}
+
 .min-w-200 {
   min-width: 200px;
 }
